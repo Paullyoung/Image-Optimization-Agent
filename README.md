@@ -5,7 +5,7 @@
 
 The GitHub Sustainability Team is exploring ways to **green software at scale**. As part of this, we’ve identified a promising deployment mechanism: **AI Agents** that autonomously reduce the carbon and energy footprint of software.
 
-This Proof of Concept (PoC) introduces the **Image Compression Agent**—an AI-powered workflow that compresses large images in code repositories to cut emissions and improve performance.
+This Proof of Concept (PoC) introduces the **Image Optimization Agent**—an AI-powered workflow that converts & compresses large images in code repositories to cut emissions and improve performance.
 
 ## Purpose
 
