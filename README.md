@@ -1,5 +1,5 @@
 
-# 🌿 Image Compression Agent – AI-Driven Sustainable Dev Tool
+# 🌿 Image Optimization Agent
 
 ## Overview
 
