@@ -1,9 +1,3 @@
-# Image-Optimization-Agent
-Experiment/POC: Optimize image file size and format with Copilot Agent
-
-Here's a concise and clear `README.md` file for your repository, summarizing the key points of your project:
-
----
 
 # 🌿 Image Compression Agent – AI-Driven Sustainable Dev Tool
 
